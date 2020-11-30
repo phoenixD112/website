@@ -119,10 +119,10 @@
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1606672977009" />
     <state x="393" y="147" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1605632011320" />
-    <state x="684" y="330" width="1192" height="1093" key="search.everywhere.popup" timestamp="1606342975784">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1606772283218">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1604465549941" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1606772283218" />
     <state x="684" y="330" width="1192" height="1093" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1606342975784" />
   </component>
 </project>
