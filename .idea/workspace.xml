@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fd35833c-3f2e-4b6a-b711-55ce51b19c21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +87,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="400" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606774926190">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="400" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1606774926190" />
     <state x="100" y="123" width="2360" height="1217" key="DiffContextDialog" timestamp="1605632011722">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
