@@ -3,4 +3,4 @@ description: "Growth Hacking!"
 author: "Ryan Simon"
 homepage: "https://ryansimon.me"
 require:
-    - rainlab.blog
+    - RainLab.Blog
