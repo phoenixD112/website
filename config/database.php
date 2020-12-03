@@ -1,6 +1,10 @@
 <?php
 
+// this is specific to using Heroku
 $DATABASE_URL = parse_url(getenv("JAWSDB_MARIA_URL"));
+if ($DATABASE_URL == null) { // to allow for local development
+    $DATABASE_URL = collect(['host'=>'localhost', 'port'=>'3306', 'path' => '', 'user' => 'admin', 'pass' => 'root']);
+}
 
 return [
 
