@@ -314,22 +314,22 @@ return [
     'storage' => [
 
         'uploads' => [
-            'disk'            => 'local',
+            'disk'            => env('STORAGE_DISK_TYPE', 'local'),
             'folder'          => 'uploads',
-            'path'            => '/storage/app/uploads',
+            'path'            => env('STORAGE_PATH').'/uploads',
             'temporaryUrlTTL' => 3600,
         ],
 
         'media' => [
-            'disk'   => 'local',
+            'disk'   => env('STORAGE_DISK_TYPE', 'local'),
             'folder' => 'media',
-            'path'   => '/storage/app/media',
+            'path'   => env('STORAGE_PATH', '/storage/app').'/media',
         ],
 
         'resized' => [
-            'disk'   => 'local',
+            'disk'   => env('STORAGE_DISK_TYPE', 'local'),
             'folder' => 'resized',
-            'path'   => '/storage/app/resized',
+            'path'   => env('STORAGE_PATH', '/storage/app').'/resized',
         ],
 
     ],
