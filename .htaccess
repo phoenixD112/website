@@ -57,4 +57,8 @@
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^ index.php [L]
 
+    Redirect 301 /strategy.html https://papidigital.com/services/strategy
+    Redirect 301 /production.html https://papidigital.com/services/production
+    Redirect 301 /distribution.html https://papidigital.com/services/distribution
+
 </IfModule>
