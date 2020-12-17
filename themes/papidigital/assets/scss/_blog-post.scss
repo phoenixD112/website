@@ -20,6 +20,10 @@
 
     .article-content {
 
+        img {
+            width: 100%;
+        }
+
         p {
             font-family: $articleBodyFontFamily;
             font-size: 21px;
