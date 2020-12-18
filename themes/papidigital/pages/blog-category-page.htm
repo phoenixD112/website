@@ -3,7 +3,12 @@ url = "/category/:slug/:page?"
 layout = "default"
 
 [blogPosts]
+pageNumber = "{{ :page }}"
 categoryFilter = "{{ :slug }}"
+categoryPage = "blog-category-page"
+postPage = "blog-page"
+sortOrder = "published_at desc"
+postsPerPage = 10
 ==
 function onEnd()
 {
@@ -18,6 +23,7 @@ $this->page->title = $this->category->name;
 
 {% else %}
 
+{% partial 'services-title' %}
 {% component 'blogPosts' %}
 
 {% endif %}
