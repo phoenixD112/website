@@ -5,7 +5,97 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd35833c-3f2e-4b6a-b711-55ce51b19c21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/papidigital-website-official.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/papidigital-website-official.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/LICENCE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/Plugin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/assets/css/rainlab.blog-export.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/assets/css/rainlab.blog-preview.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/assets/images/blog-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/assets/js/post-form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/assets/less/rainlab.blog-preview.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/classes/TagProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/components/Categories.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/components/Post.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/components/Posts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/components/RssFeed.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/components/categories/default.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/components/categories/items.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/components/post/default.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/components/posts/default.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/components/rssfeed/default.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/Categories.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/Posts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/categories/_list_toolbar.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/categories/_reorder_toolbar.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/categories/config_form.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/categories/config_list.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/categories/config_reorder.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/categories/create.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/categories/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/categories/reorder.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/categories/update.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/posts/_list_toolbar.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/posts/_post_toolbar.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/posts/config_filter.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/posts/config_form.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/posts/config_import_export.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/posts/config_list.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/posts/create.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/posts/export.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/posts/import.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/posts/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/controllers/posts/update.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/formwidgets/BlogMarkdown.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/formwidgets/MLBlogMarkdown.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/bg/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/cs/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/de/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/en/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/es/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/fa/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/fi/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/fr/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/hu/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/it/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/ja/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/nb-no/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/nl/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/pl/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/pt-br/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/ru/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/sk/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/sl/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/tr/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/lang/zh-cn/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/models/Category.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/models/Post.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/models/PostExport.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/models/PostImport.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/models/Settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/models/category/columns.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/models/category/fields.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/models/post/columns.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/models/post/fields.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/models/postexport/columns.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/models/postimport/columns.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/models/postimport/fields.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/models/settings/fields.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/updates/categories_add_nested_fields.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/updates/create_categories_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/updates/create_posts_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/updates/posts_add_metadata.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/updates/seed_all_tables.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/updates/update_timestamp_nullable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/blog/updates/version.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/papidigital/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/papidigital/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/papidigital/assets/scss/_blog-post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/papidigital/assets/scss/_blog-post.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +216,15 @@
       <path value="$PROJECT_DIR$/vendor/psr/log" />
       <path value="$PROJECT_DIR$/vendor/psr/container" />
       <path value="$PROJECT_DIR$/vendor/dms/phpunit-arraysubset-asserts" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/vendor/laravel/homestead" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/aws/aws-sdk-php" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem-aws-s3-v3" />
     </include_path>
   </component>
   <component name="ProjectId" id="1jlQcBjtL0O6jmpA54XLwvGjaQX" />
@@ -205,7 +304,7 @@
       <workItem from="1607054383713" duration="238000" />
       <workItem from="1607054944066" duration="360000" />
       <workItem from="1607055348875" duration="4838000" />
-      <workItem from="1608177680618" duration="603000" />
+      <workItem from="1608177680618" duration="2400000" />
     </task>
     <servers />
   </component>

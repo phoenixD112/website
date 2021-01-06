@@ -26,6 +26,9 @@ nbproject
 .vscode
 _ide_helper.php
 
+# Vagrant ignores
+.vagrant
+
 # Other ignores
 .DS_Store
 package-lock.json

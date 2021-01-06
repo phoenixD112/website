@@ -22,6 +22,12 @@
 
         img {
             max-width: 100%;
+
+            @include media-breakpoint-up(sm) {
+                max-width: 66%;
+                display: block;
+                margin: 0 auto;
+            }
         }
 
         p {
