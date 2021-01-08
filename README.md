@@ -15,7 +15,6 @@ up and running.
    - `cd code`
    - `php72`
    - `php artisan october:up`
-
 9. October CMS should now be installed and ready to go. Take note of the admin password to login to the backend.
 10. Go to `papidigital.local/thebackdoor` in your browser to login
 11. Navigate to the `Settings` page and change the Front-end Theme to Papi Digital
