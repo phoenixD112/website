@@ -21,6 +21,8 @@ up and running.
 12. Go to `Plugins` and make sure that the `Blog` plugin is installed. You can search for it by typing `Blog` and selecting `Blog by RainLab`
 13. Check that the site is working by going to `papidigital.local`
 14. If you want to automatically track changes to your SASS files, check the instructions below.
+15. To shut down the virtual machine started by vagrant, you can execute `vagrant halt` in the root directory of the project.
+16. If you'd like to start the server back up, execute `vagrant up` in the root directory of the project
 
 ### Updating the Papi Digital Theme
 The theme lives in `/themes/papidigital`. It's using custom layouts for the blog, and carries some static assets with it for some of the pages.
