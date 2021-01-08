@@ -23,9 +23,7 @@ up and running.
 14. If you want to automatically track changes to your SASS files, check the instructions below.
 
 ### Updating the Papi Digital Theme
-The theme lives in `/themes/papidigital`. It's using custom layouts
-for the blog, and carries some static assets with it for some of the  
-pages.
+The theme lives in `/themes/papidigital`. It's using custom layouts for the blog, and carries some static assets with it for some of the pages.
 
 ## Production Deployment
 The project is deployed to [cloudways.com](https://cloudways.com).
