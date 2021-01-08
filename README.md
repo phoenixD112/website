@@ -16,7 +16,7 @@ up and running.
    - `php72`
    - `php artisan october:up`
 9. October CMS should now be installed and ready to go. Take note of the admin password to login to the backend.
-10. Go to `papidigital.local/thebackdoor` in your browser to login
+10. Go to `papidigital.local/thebackdoor` in your browser to login. `admin` is the username and the password was generated at the previous step
 11. Navigate to the `Settings` page and change the Front-end Theme to Papi Digital
 12. Go to `Plugins` and make sure that the `Blog` plugin is installed. You can search for it by typing `Blog` and selecting `Blog by RainLab`
 13. Check that the site is working by going to `papidigital.local`
