@@ -10,17 +10,12 @@ folders:
         map: /Users/ryansimon/WebProjects/papidigital-website-official
         to: /home/vagrant/code
 sites:
-    -
-        map: papidigital.local
-        to: /home/vagrant/code/public
+    - map: papidigital.local
+      to: /home/vagrant/code
+      php: "7.2"
 databases:
     - homestead
 features:
-    -
-        mariadb: false
-    -
-        ohmyzsh: false
-    -
-        webdriver: false
+    - ohmyzsh: true
 name: papidigital
 hostname: papidigital

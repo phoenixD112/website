@@ -1,7 +1,26 @@
 # Papi Digital OctoberCMS Theme
 
 ## Local Development
-TODO
+Follow these steps to get a local development environment of Papi Digital
+up and running.
+
+1. Install [Vagrant](https://www.vagrantup.com/)
+2. Install [VirtualBox](https://www.virtualbox.org/)
+3. Pull down the repo if you haven't already
+4. Ask for a local `.env` file as you'll need it for the next steps
+5. Navigate to the project directory using your terminal of choice and execute `vagrant up --provision`
+6. Make sure to update your hosts file with the IP address listed in the `Homestead.yaml` file in the root of the project
+7. Staying in the project directory, execute `vagrant ssh`; you should now be in the terminal of the vagrant server
+8. Execute the following commands in the order they appear
+   `cd code`
+   `php72`
+   `php artisan october:up`
+9. October CMS should now be installed and ready to go. Take note of the admin password to login to the backend.
+10. Go to `papidigital.local/thebackdoor` in your browser to login
+11. Navigate to the `Settings` page and change the Front-end Theme to Papi Digital
+12. Go to `Plugins` and make sure that the `Blog` plugin is installed. You can search for it by typing `Blog` and selecting `Blog by RainLab`
+13. Check that the site is working by going to `papidigital.local`
+14. If you want to automatically track changes to your SASS files, check the instructions below.
 
 ### Updating the Papi Digital Theme
 The theme lives in `/themes/papidigital`. It's using custom layouts
